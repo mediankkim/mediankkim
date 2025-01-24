@@ -1,16 +1,21 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=3eb489&height=200&section=header&text=MedianKim&fontSize=80&animation=twinkling&fontAlign=75&fontColor=2E2E2E)
 
-<!--
-**mediankkim/mediankkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## 😎 Who am I 😎
+<p>
+  안녕하세요 메디안킴 입니다 👋<br/>
+  디스코드: mediankim<br/>
+  왁물원: 메디안킴<br/>
+</p>
+<br/>
+  
+## 💌 Reach me 💌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<a href = "https://github.com/mediankkim"> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> </a>
+<img alt="Gmail" src="https://img.shields.io/badge/mediankkim@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mediankkim&show_icons=true&theme=vue)
+</P>
+<br/>
