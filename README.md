@@ -2,7 +2,7 @@
 ```
 > touch medianKim.txt
 > echo "⭐ 작업환영 ⭐" > medianKim.txt
-> echo "안녕하세요 왁타버스 트리거 맵제작자 메디안킴 입니다." >> medianKim.txt
+> echo "안녕하세요 트리거 맵제작자 메디안킴 입니다." >> medianKim.txt
 > echo "문의는 디스코드로 부탁드립니다." >> medianKim.txt
 > cat medianKim.txt
 ```
